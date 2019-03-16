@@ -17,7 +17,8 @@ $mail = new PHPMailer;
 | more chance to receive the email at gmail, yahoo, hotmail, etc.
 |
 */
-$reciever        = "info@yourdomain.com";
+
+$reciever        = "hyw2@cornell.edu";
 $default_subject = "Email from yoursite.com";
 
 $sender_email    = "noreply@yourdomain.com";

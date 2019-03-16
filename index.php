@@ -238,11 +238,12 @@
               <p class="lead">Subscribe to our newsletter to be always aware of our new updates.<br>We build the most powerful and flexible templates for startups.</p>
               <br>
               <div class="row">
-                <form class="col-md-9 input-glass" action="" method="post" target="_blank">
+                <form action="https://github.us20.list-manage.com/subscribe/post?u=0876e19f348ad2c0199d85790&amp;id=253dfcbcde" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
                   <div class="input-group">
-                    <input type="text" name="EMAIL" class="form-control" placeholder="Enter Email Address">
+                    <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="email address" required>
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0876e19f348ad2c0199d85790_253dfcbcde" tabindex="-1" value=""></div>
                     <span class="input-group-append">
-                      <button class="btn btn-glass btn-light" type="button">Sign up <i class="ti-arrow-right fs-9 ml-3"></i></button>
+                      <button id="mc-embedded-subscribe" class="btn btn-glass btn-light" type="submit" name="subscribe">Sign up <i class="ti-arrow-right fs-9 ml-3"></i></button>
                     </span>
                   </div>
                 </form>
