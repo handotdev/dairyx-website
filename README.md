@@ -1,1 +1,1 @@
-# dairyx-website
+# DairyX Website
