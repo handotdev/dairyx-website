@@ -31,11 +31,11 @@
         <div class="row align-items-center h-100">
 
           <div class="col-lg-6">
-            <h1 class="fw-600">Build your <span class="text-warning">Brand.</span><br><span class="text-info">Sell</span> more stuff.</h1>
+            <h1 class="fw-600">Collect Feed <span class="text-warning">Data.</span><br><span class="text-info">Get</span> Better Results.</h1>
             <p class="lead mt-5 mb-8">Support your workflow with lightweight tools and features. Then work how you work best—we'll follow your lead.</p>
             <p class="gap-xy">
               <a class="btn btn-round btn-outline-light mw-150" href="#">Learn more</a>
-              <a class="btn btn-round btn-light mw-150" href="#">Sign up</a>
+              <a class="btn btn-round btn-light mw-150" href="#">Contact us</a>
             </p>
           </div>
 
