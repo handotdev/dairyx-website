@@ -232,20 +232,35 @@
           <div class="row align-items-center">
 
             <div class="col-md-6">
-              <h2>Stay Updated</h2>
-              <p class="lead">Subscribe to our newsletter to be always aware of our new updates.<br>We are commited to providing you the best data in the industry.</p>
-              <br>
-              <div class="row">
-                <form action="https://github.us20.list-manage.com/subscribe/post?u=0876e19f348ad2c0199d85790&amp;id=253dfcbcde" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-                  <div class="input-group">
-                    <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="email address" required>
-                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_0876e19f348ad2c0199d85790_253dfcbcde" tabindex="-1" value=""></div>
-                    <span class="input-group-append">
-                      <button id="mc-embedded-subscribe" class="btn btn-glass btn-light" type="submit" name="subscribe">Sign up <i class="ti-arrow-right fs-9 ml-3"></i></button>
-                    </span>
-                  </div>
-                </form>
-              </div>
+
+                <header class="section-header">
+                  <h2 class="lead-8">
+                    <strong>Stay Updated</strong></h2>
+                  <hr>
+                  <p class="lead">We waited until we could do it right. Then we did! Instead of creating a carbon copy.</p>
+                </header>
+
+
+                <div class="row">
+
+                  <form  action="https://github.us20.list-manage.com/subscribe/post?u=0876e19f348ad2c0199d85790&amp;id=253dfcbcde" method="post" id="mc-embedded-subscribe-form" class="col-md-8 col-xl-8 mx-auto input-border validate" name="mc-embedded-subscribe-form" target="_blank" novalidate>
+                    <div class="form-group">
+                      <input type="text" value="" name="FNAME" id="mce-FNAME" class="form-control form-control-lg" placeholder="First Name">
+                    </div>
+
+                    <div class="form-group">
+                      <input type="text" value="" name="LNAME" id="mce-FNAME" class="form-control form-control-lg" placeholder="Last Name">
+                    </div>
+
+                    <div class="form-group">
+                      <input type="email" value="" name="EMAIL" id="mce-EMAIL" class="form-control form-control-lg required email" placeholder="Email">
+                    </div>
+
+                    <button id="mc-embedded-subscribe" class="btn btn-block btn-xl btn-success" type="submit" name="subscribe">Subscribe</button>
+                  </form>
+
+                </div>
+
             </div>
 
 
