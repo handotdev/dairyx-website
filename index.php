@@ -33,7 +33,7 @@
 
           <div class="col-lg-6">
             <h1 class="fw-600">Collect Feed <span class="text-warning">Data.</span><br><span class="text-info">Get</span> Better Results.</h1>
-            <p class="lead mt-5 mb-8">Support your workflow with lightweight tools and features. Then work how you work best—we'll follow your lead.</p>
+            <p class="lead mt-5 mb-8">On a mission to merge digital technology with traditional agriculture to create a productive, efficient, resilient, and sustainable future food system.</p>
             <p class="gap-xy">
               <a class="btn btn-round btn-outline-light mw-150" href="index.php#learn-more">Learn more</a>
               <a class="btn btn-round btn-light mw-150" href="contact.php">Contact us</a>
@@ -54,130 +54,13 @@
 
       <!--
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-      | Welcome
+      | Our Product and Service
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section id="learn-more" class="section">
+      <section id="learn-more" class="section bg-gray">
         <div class="container">
           <header class="section-header">
             <h2>Our Product and Service</h2>
-            <hr>
-            <p class="lead">DairyX is world's the most accessible and accurate system for cattle management.</p>
-          </header>
-
-
-
-          <div class="row gap-y">
-
-            <div class="col-md-8 mx-auto">
-              <img src="assets/img/product.jpg" alt="..." data-aos="fade-up" data-aos-duration="2000">
-            </div>
-
-
-            <div class="w-100"></div>
-
-
-            <div class="col-md-6 col-xl-4">
-              <div class="media">
-                <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-linegraph"></i></div>
-                <div class="media-body">
-                  <h5>Improve Milk Production</h5>
-                  <p>[TBD]</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-md-6 col-xl-4">
-              <div class="media">
-                <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-magnifying-glass"></i></div>
-                <div class="media-body">
-                  <h5>Insightful Feed Data</h5>
-                  <p>[TBD]</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-md-6 col-xl-4">
-              <div class="media">
-                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-pricetags"></i></div>
-                <div class="media-body">
-                  <h5>Utilizing Existing Systems</h5>
-                  <p>[TBD]</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-md-6 col-xl-4">
-              <div class="media">
-                <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-wallet"></i></div>
-                <div class="media-body">
-                  <h5>Greater Profit Margins</h5>
-                  <p>Reduce feed costs and save money through reduced treatment costs, reduced labor costs, and increased feed efficiency.</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-md-6 col-xl-4">
-              <div class="media">
-                <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-gears"></i></div>
-                <div class="media-body">
-                  <h5>Efficient Management</h5>
-                  <p>[TBD]</p>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="col-md-6 col-xl-4">
-              <div class="media">
-                <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-clock"></i></div>
-                <div class="media-body">
-                  <h5>Real-Time Insights</h5>
-                  <p>[TBD]</p>
-                </div>
-              </div>
-            </div>
-
-          </div>
-
-        </div>
-      </section>
-
-
-      <!--
-      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-      | CTA
-      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-      !-->
-      <section class="section py-7" style="background-color: #000">
-        <div class="container">
-          <div class="row gap-y align-items-center">
-            <div class="col-md-9">
-              <h4 class="mb-0 text-white text-center text-md-left">Want a demo? Message us for more info!</h4>
-            </div>
-
-            <div class="col-md-3 text-center text-md-right">
-              <a class="btn btn-lg btn-round btn-light" href="#">Contact Us</a>
-            </div>
-          </div>
-        </div>
-      </section>
-
-
-      <!--
-      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-      | Features
-      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
-      !-->
-      <section id="section-features" class="section bg-gray">
-        <div class="container">
-          <header class="section-header">
-            <small>Feature</small>
-            <h2>What you get by partnering with us</h2>
             <hr>
             <p class="lead">[TBD]</p>
           </header>
@@ -224,6 +107,121 @@
             </div>
           </div>
 
+
+        </div>
+      </section>
+
+
+      <!--
+      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+      | CTA
+      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+      !-->
+      <section class="section py-7" style="background-color: #000">
+        <div class="container">
+          <div class="row gap-y align-items-center">
+            <div class="col-md-9">
+              <h4 class="mb-0 text-white text-center text-md-left">Want a demo? Message us for more info!</h4>
+            </div>
+
+            <div class="col-md-3 text-center text-md-right">
+              <a class="btn btn-lg btn-round btn-light" href="#">Contact Us</a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!--
+      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+      | Features
+      |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
+      !-->
+      <section id="section-features" class="section">
+        <div class="container">
+          <header class="section-header">
+            <small>Features</small>
+            <h2>DairyX is world's the most accessible and accurate system for cattle management</h2>
+            <hr>
+          </header>
+
+
+
+          <div class="row gap-y">
+
+            <div class="col-md-8 mx-auto">
+              <img src="assets/img/product.jpg" alt="..." data-aos="fade-up" data-aos-duration="2000">
+            </div>
+
+
+            <div class="w-100"></div>
+
+
+            <div class="col-md-6 col-xl-4">
+              <div class="media">
+                <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-linegraph"></i></div>
+                <div class="media-body">
+                  <h5>Improve Milk Production</h5>
+                  <p>Improving detection means identifying cows with better lactation. Breeding cows with better laction means higher profits for your dairy farm!</p>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-md-6 col-xl-4">
+              <div class="media">
+                <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-magnifying-glass"></i></div>
+                <div class="media-body">
+                  <h5>Collect Insightful Data</h5>
+                  <p>Obtain data on feeding and sleeping durations to better understand the health status and feed efficiency of the cows.</p>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-md-6 col-xl-4">
+              <div class="media">
+                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-pricetags"></i></div>
+                <div class="media-body">
+                  <h5>Utilizing Existing Systems</h5>
+                  <p>Our technology leverages existing systems in place! This way, our product is affordable, adaptable, and scalable.</p>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-md-6 col-xl-4">
+              <div class="media">
+                <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-wallet"></i></div>
+                <div class="media-body">
+                  <h5>Greater Profit Margins</h5>
+                  <p>Reduce feed costs and save money through reduced treatment costs, reduced labor costs, and increased feed efficiency.</p>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-md-6 col-xl-4">
+              <div class="media">
+                <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-gears"></i></div>
+                <div class="media-body">
+                  <h5>Efficient Management</h5>
+                  <p>DairyX keeps track of your herd 24/7. Automating the process will allow you to reduce operational and labor costs.</p>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="col-md-6 col-xl-4">
+              <div class="media">
+                <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-clock"></i></div>
+                <div class="media-body">
+                  <h5>Real-Time Insights</h5>
+                  <p>Visualize and track individual cow information in real-time to best analyze data regarding your herd.</p>
+                </div>
+              </div>
+            </div>
+
+          </div>
 
         </div>
       </section>
