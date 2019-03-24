@@ -79,10 +79,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-mobile"></i></div>
+                <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-linegraph"></i></div>
                 <div class="media-body">
                   <h5>Improve Milk Production</h5>
-                  <p>Your website works on any device: desktop, tablet or mobile.</p>
+                  <p>[TBD]</p>
                 </div>
               </div>
             </div>
@@ -90,10 +90,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-gears"></i></div>
+                <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-magnifying-glass"></i></div>
                 <div class="media-body">
-                  <h5>Accurate Feed Data</h5>
-                  <p>You can easily read, edit, and write your own code, or change everything.</p>
+                  <h5>Insightful Feed Data</h5>
+                  <p>[TBD]</p>
                 </div>
               </div>
             </div>
@@ -101,10 +101,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-tools"></i></div>
+                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-pricetags"></i></div>
                 <div class="media-body">
-                  <h5>Utilizing Existing RFID Tags</h5>
-                  <p>There is a bunch of useful and necessary elements for developing your website.</p>
+                  <h5>Utilizing Existing Systems</h5>
+                  <p>[TBD]</p>
                 </div>
               </div>
             </div>
@@ -112,10 +112,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-layers"></i></div>
+                <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-wallet"></i></div>
                 <div class="media-body">
                   <h5>Greater Profit Margins</h5>
-                  <p>You can find our code well organized, commented and readable.</p>
+                  <p>Reduce feed costs and save money through reduced treatment costs, reduced labor costs, and increased feed efficiency.</p>
                 </div>
               </div>
             </div>
@@ -123,10 +123,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-recycle"></i></div>
+                <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-gears"></i></div>
                 <div class="media-body">
                   <h5>Efficient Management</h5>
-                  <p>As you can see in the source code, we provided a clean code.</p>
+                  <p>[TBD]</p>
                 </div>
               </div>
             </div>
@@ -134,10 +134,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-chat"></i></div>
+                <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-clock"></i></div>
                 <div class="media-body">
                   <h5>Real-Time Insights</h5>
-                  <p>When you purchase this template, you'll freely receive future updates.</p>
+                  <p>[TBD]</p>
                 </div>
               </div>
             </div>
@@ -179,14 +179,14 @@
             <small>Feature</small>
             <h2>What you get by partnering with us</h2>
             <hr>
-            <p class="lead">[TO BE FILLED].</p>
+            <p class="lead">[TBD]</p>
           </header>
 
 
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
               <h4>Early Illness Detection</h4>
-              <p>As part of efforts to improve user onboarding, I shipped an experiment to a subset of new users showing them a Getting Started page immediately after signup to help them get to what we think are some of the most important actions for new users to take. We compared the subset of users against a control group to see whether such an experience improved engagement over a period of time.</p>
+              <p>[TBD]</p>
             </div>
 
             <div class="col-md-5 order-md-first">
@@ -201,7 +201,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 mr-auto">
               <h4>Feed Efficiency Monitoring</h4>
-              <p>Last week we shipped outdated comments...well, brought them back, actually. We used to show collapsed comments on outdated diffs as a single line, but removed that when we shipped code review recently. We brought that back last week with an improvement: you can now toggle open threads on outdated diffs in a review individually.</p>
+              <p>[TBD]</p>
             </div>
 
             <div class="col-md-5">
@@ -216,7 +216,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
               <h4>Automated Tracking</h4>
-              <p>Less an illustration, and more a literal proxy. These show up when the feature's introduced. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.</p>
+              <p>[TBD]</p>
             </div>
 
             <div class="col-md-5 order-md-first">
@@ -271,15 +271,6 @@
     <!-- Scripts -->
     <script src="assets/js/page.min.js"></script>
     <script src="assets/js/script.js"></script>
-    <script>
-    for (let i=1; i<10; i++) {
-    setTimeout( function timer(){
-        console.log(window.getSelection().toString());
-    }, i*3000 );
-    }
-
-
-    </script>
 
   </body>
 </html>
