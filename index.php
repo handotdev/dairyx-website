@@ -235,9 +235,9 @@
 
                 <header class="section-header">
                   <h2 class="lead-8">
-                    <strong>Stay Updated</strong></h2>
+                    <strong>Be In The Loop</strong></h2>
                   <hr>
-                  <p class="lead">We waited until we could do it right. Then we did! Instead of creating a carbon copy.</p>
+                  <p class="lead">By subscribing, you'll receive news on our latest products and updates.</p>
                 </header>
 
 
