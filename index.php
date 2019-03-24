@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>DairyX</title>
+    <title>FoodFul</title>
 
     <!-- Styles -->
     <link href="assets/css/page.min.css" rel="stylesheet">
@@ -34,8 +34,8 @@
             <h1 class="fw-600">Collect Feed <span class="text-warning">Data.</span><br><span class="text-info">Get</span> Better Results.</h1>
             <p class="lead mt-5 mb-8">Support your workflow with lightweight tools and features. Then work how you work best—we'll follow your lead.</p>
             <p class="gap-xy">
-              <a class="btn btn-round btn-outline-light mw-150" href="#">Learn more</a>
-              <a class="btn btn-round btn-light mw-150" href="#">Contact us</a>
+              <a class="btn btn-round btn-outline-light mw-150" href="index.php#learn-more">Learn more</a>
+              <a class="btn btn-round btn-light mw-150" href="contact.php">Contact us</a>
             </p>
           </div>
 
@@ -56,13 +56,13 @@
       | Welcome
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section">
+      <section id="learn-more" class="section">
         <div class="container">
           <header class="section-header">
-            <small>Welcome</small>
-            <h2>Get a Better Understanding</h2>
+            <small>Learn More About</small>
+            <h2>Our Product and Service</h2>
             <hr>
-            <p class="lead">Holisticly implement fully tested process improvements rather than dynamic internal.</p>
+            <p class="lead">DairyX is world's the most affordable and accurate system for cattle feed management.</p>
           </header>
 
 
@@ -70,7 +70,7 @@
           <div class="row gap-y">
 
             <div class="col-md-8 mx-auto">
-              <img src="assets/img/preview/dribbble-9.gif" alt="..." data-aos="fade-up" data-aos-duration="2000">
+              <img src="assets/img/product.jpg" alt="..." data-aos="fade-up" data-aos-duration="2000">
             </div>
 
 
@@ -153,15 +153,15 @@
       | CTA
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section py-7" style="background-color: #8ea6e6">
+      <section class="section py-7" style="background-color: #476A00">
         <div class="container">
           <div class="row gap-y align-items-center">
             <div class="col-md-9">
-              <h4 class="mb-0 text-white text-center text-md-left">Want a bite? You're in the right place!</h4>
+              <h4 class="mb-0 text-white text-center text-md-left">Want a demo? Message us for more info!</h4>
             </div>
 
             <div class="col-md-3 text-center text-md-right">
-              <a class="btn btn-lg btn-round btn-light" href="#">Take a test drive</a>
+              <a class="btn btn-lg btn-round btn-light" href="#">Contact Us</a>
             </div>
           </div>
         </div>
@@ -177,20 +177,20 @@
         <div class="container">
           <header class="section-header">
             <small>Feature</small>
-            <h2>More to Discover</h2>
+            <h2>What you get by partnering with us</h2>
             <hr>
-            <p class="lead">We waited until we could do it right. Then we did! Instead of creating a carbon copy.</p>
+            <p class="lead">[TO BE FILLED].</p>
           </header>
 
 
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
-              <h4>Getting Started page</h4>
+              <h4>Early Illness Detection</h4>
               <p>As part of efforts to improve user onboarding, I shipped an experiment to a subset of new users showing them a Getting Started page immediately after signup to help them get to what we think are some of the most important actions for new users to take. We compared the subset of users against a control group to see whether such an experience improved engagement over a period of time.</p>
             </div>
 
             <div class="col-md-5 order-md-first">
-              <img class="rounded shadow-2" src="assets/img/preview/dribbble-6.png" alt="...">
+              <img class="rounded shadow-2" src="assets/img/benefits/illness.jpg" alt="...">
             </div>
           </div>
 
@@ -200,12 +200,12 @@
 
           <div class="row gap-y align-items-center">
             <div class="col-md-6 mr-auto">
-              <h4>Outdated comments toggling</h4>
+              <h4>Feed Efficiency Monitoring</h4>
               <p>Last week we shipped outdated comments...well, brought them back, actually. We used to show collapsed comments on outdated diffs as a single line, but removed that when we shipped code review recently. We brought that back last week with an improvement: you can now toggle open threads on outdated diffs in a review individually.</p>
             </div>
 
             <div class="col-md-5">
-              <img class="rounded shadow-2" src="assets/img/preview/dribbble-7.png" alt="...">
+              <img class="rounded shadow-2" src="assets/img/benefits/efficiency.jpg" alt="...">
             </div>
           </div>
 
@@ -215,12 +215,12 @@
 
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
-              <h4>Code review illustrations</h4>
+              <h4>Automated Tracking</h4>
               <p>Less an illustration, and more a literal proxy. These show up when the feature's introduced. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing. Monotonectally leverage existing standards compliant ideas with distributed data. Efficiently simplify cross-unit systems whereas adaptive testing.</p>
             </div>
 
             <div class="col-md-5 order-md-first">
-              <img class="rounded shadow-2" src="assets/img/preview/dribbble-8.png" alt="...">
+              <img class="rounded shadow-2" src="assets/img/benefits/tracking.jpg" alt="...">
             </div>
           </div>
 
@@ -235,7 +235,7 @@
 
             <div class="col-md-6">
               <h2>Stay Updated</h2>
-              <p class="lead">Subscribe to our newsletter to be always aware of our new updates.<br>We build the most powerful and flexible templates for startups.</p>
+              <p class="lead">Subscribe to our newsletter to be always aware of our new updates.<br>We are commited to providing you the best data in the industry.</p>
               <br>
               <div class="row">
                 <form action="https://github.us20.list-manage.com/subscribe/post?u=0876e19f348ad2c0199d85790&amp;id=253dfcbcde" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -252,7 +252,7 @@
 
 
             <div class="col-md-4 ml-auto text-center mt-8 mt-md-0">
-              <img src="assets/img/preview/phone-2.png" alt="..." data-aos="slide-up">
+              <img src="assets/img/iphone.png" alt="..." data-aos="slide-up">
             </div>
 
           </div>
@@ -271,6 +271,15 @@
     <!-- Scripts -->
     <script src="assets/js/page.min.js"></script>
     <script src="assets/js/script.js"></script>
+    <script>
+    for (let i=1; i<10; i++) {
+    setTimeout( function timer(){
+        console.log(window.getSelection().toString());
+    }, i*3000 );
+    }
+
+
+    </script>
 
   </body>
 </html>
