@@ -25,7 +25,8 @@
 
 
     <!-- Header -->
-    <header id="home" class="header text-white h-fullscreen text-center text-lg-left" style="background-color: #24292e">
+    <header id="home" class="header text-white h-fullscreen text-center text-lg-left" style="background-color: #000">
+
       <canvas class="constellation" data-color="rgba(255,255,255,0.3)"></canvas>
       <div class="container">
         <div class="row align-items-center h-100">
@@ -59,10 +60,9 @@
       <section id="learn-more" class="section">
         <div class="container">
           <header class="section-header">
-            <small>Learn More About</small>
             <h2>Our Product and Service</h2>
             <hr>
-            <p class="lead">DairyX is world's the most affordable and accurate system for cattle feed management.</p>
+            <p class="lead">DairyX is world's the most accessible and accurate system for cattle management.</p>
           </header>
 
 
@@ -81,7 +81,7 @@
               <div class="media">
                 <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-mobile"></i></div>
                 <div class="media-body">
-                  <h5>Responsive</h5>
+                  <h5>Improve Milk Production</h5>
                   <p>Your website works on any device: desktop, tablet or mobile.</p>
                 </div>
               </div>
@@ -92,7 +92,7 @@
               <div class="media">
                 <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-gears"></i></div>
                 <div class="media-body">
-                  <h5>Customizable</h5>
+                  <h5>Accurate Feed Data</h5>
                   <p>You can easily read, edit, and write your own code, or change everything.</p>
                 </div>
               </div>
@@ -103,7 +103,7 @@
               <div class="media">
                 <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-tools"></i></div>
                 <div class="media-body">
-                  <h5>UI Kit</h5>
+                  <h5>Utilizing Existing RFID Tags</h5>
                   <p>There is a bunch of useful and necessary elements for developing your website.</p>
                 </div>
               </div>
@@ -114,7 +114,7 @@
               <div class="media">
                 <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-layers"></i></div>
                 <div class="media-body">
-                  <h5>Lego Base</h5>
+                  <h5>Greater Profit Margins</h5>
                   <p>You can find our code well organized, commented and readable.</p>
                 </div>
               </div>
@@ -125,7 +125,7 @@
               <div class="media">
                 <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-recycle"></i></div>
                 <div class="media-body">
-                  <h5>Clean Code</h5>
+                  <h5>Efficient Management</h5>
                   <p>As you can see in the source code, we provided a clean code.</p>
                 </div>
               </div>
@@ -136,7 +136,7 @@
               <div class="media">
                 <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-chat"></i></div>
                 <div class="media-body">
-                  <h5>Support</h5>
+                  <h5>Real-Time Insights</h5>
                   <p>When you purchase this template, you'll freely receive future updates.</p>
                 </div>
               </div>
@@ -153,7 +153,7 @@
       | CTA
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section py-7" style="background-color: #476A00">
+      <section class="section py-7" style="background-color: #000">
         <div class="container">
           <div class="row gap-y align-items-center">
             <div class="col-md-9">
@@ -229,7 +229,7 @@
       </section>
 
       <!-- Subscribe Page -->`
-      <section id="subscribe" class="section text-white overflow-hidden" style="background-image: linear-gradient(120deg, #505285 0%, #585e92 12%, #65689f 25%, #7474b0 37%, #7e7ebb 50%, #8389c7 62%, #9795d4 75%, #a2a1dc 87%, #b5aee4 100%);">
+      <section id="subscribe" class="section text-white overflow-hidden" style="background-image: linear-gradient(120deg, #000 0%, #111 12%, #222 25%, #333 37%, #444 50%, #555 62%, #666 75%, #777 87%, #888 100%);">
         <div class="container">
           <div class="row align-items-center">
 
