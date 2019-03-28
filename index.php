@@ -40,8 +40,8 @@
             </p>
           </div>
 
-          <div class="col-lg-5 ml-auto">
-            <img class="mt-5" src="assets/img/preview/laptop-1.png" alt="img">
+          <div class="col-lg-6 ml-auto">
+            <img class="mt-5" src="assets/img/laptop.gif" alt="img">
           </div>
 
         </div>
