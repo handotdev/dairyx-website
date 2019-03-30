@@ -25,7 +25,7 @@
 
 
     <!-- Header -->
-    <header id="home" class="header text-white h-fullscreen text-center text-lg-left" style="background-color: #000">
+    <header id="home" class="header text-white h-fullscreen text-center text-lg-left" style="background-color: #000; background-image:url('assets/img/background.jpg');">
 
       <canvas class="constellation" data-color="rgba(255,255,255,0.3)"></canvas>
       <div class="container">
