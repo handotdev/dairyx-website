@@ -12,9 +12,7 @@ echo '
 
       <div class="col-md-6">
         <div class="nav nav-center">
-          <a class="nav-link" href="#">About</a>
-          <a class="nav-link" href="#">Policy</a>
-          <a class="nav-link" href="contact.php">Contact</a>
+          <a class="nav-link" style="text-align:center;">Proudly Founded By <span style="color:red;">Cornell</span> Alumni<br>(The Worlds Leading School In Cloud Computing And Agriculture)</a>
         </div>
       </div>
 

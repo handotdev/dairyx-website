@@ -17323,7 +17323,7 @@ button:focus {
 .scroll-down-2 span {
   display: inline-block;
   width: 24px;
-  height: 24px;
+  height: px;
   margin: 0 5px;
   border-left: 1px solid #000;
   border-bottom: 1px solid #000;
@@ -20816,8 +20816,8 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
   -webkit-background-size: cover;
           background-size: cover;
   background-repeat: no-repeat;
-  padding-top: 7rem;
-  padding-bottom: 7rem; }
+  padding-top: 3rem;
+  padding-bottom: 5rem; }
   .section > .container,
   .section > .container-fluid,
   .section > .container-wide {
@@ -20825,13 +20825,13 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
     height: 100%; }
   @media (max-width: 991.98px) {
     .section {
-      padding-top: 5rem;
+      padding-top: 3rem;
       padding-bottom: 5rem; } }
 
 .section-header {
   text-align: center;
-  max-width: 70%;
-  margin: 0 auto 70px; }
+  max-width: 90%;
+  margin: 0 auto 60px; }
   .section-header small {
     display: inline-block;
     font-size: 0.6875rem;

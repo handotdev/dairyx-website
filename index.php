@@ -9,7 +9,7 @@
     <title>DairyX</title>
 
     <!-- Styles -->
-    <link href="assets/css/page.min.css" rel="stylesheet">
+    <link href="assets/css/page.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
 
     <!-- Favicons -->
@@ -32,11 +32,11 @@
         <div class="row align-items-center h-100">
 
           <div class="col-lg-6">
-            <h1 class="fw-600">Small <span class="text-warning">Changes.</span><br><span class="text-info">Large</span> Impact.</h1>
-            <p class="lead mt-5 mb-8">On a mission to merge digital technology with traditional agriculture to create a productive, efficient, resilient, and sustainable future food system.</p>
+            <h1 class="fw-600">Small Changes,<br><span class="text-success" style="font-size:60px;">Large Impact.</span></h1>
+            <p class="lead mt-5 mb-8">On a mission to merge digital technology with traditional agriculture to create a <span class="text-success">productive, efficient, resilient, and sustainable future food system.</span></p>
             <p class="gap-xy">
               <a id="cover-more" class="btn btn-round btn-outline-light mw-150" href="index.php#learn-more">Learn more</a>
-              <a id="cover-subscribe" class="btn btn-round btn-light mw-150" href="index.php#subscribe">Subscribe</a>
+              <a id="cover-subscribe" class="btn btn-round btn-light mw-150 bg-success text-white" href="index.php#subscribe">Subscribe</a>
             </p>
           </div>
 
@@ -62,7 +62,6 @@
           <header class="section-header">
             <img class="logo-dark" src="assets/img/logo-dark.png" alt="logo" style="height:75px;">
             <h2>DairyX</h2>
-            <hr>
             <p class="lead" style="font-size:20px;"><i>The world's most adaptable and accurate cloud-based monitoring system for dairy cows.</i></p>
           </header>
 
@@ -70,7 +69,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
               <h4>Early Illness Detection</h4>
-              <p>[TBD]</p>
+              <p>Visual inspection is the common practice of illness detection at dairy farms but even for a highly trained individual, subtle signs of cow sickness are easily overlooked. DairyX makes subtle irregular behaviors of cows more apparent and makes the process of detection more accurate at real time through cloud-based 24 hour monitoring system.</p>
             </div>
 
             <div class="col-md-5 order-md-first">
@@ -85,7 +84,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 mr-auto">
               <h4>Feed Efficiency Monitoring</h4>
-              <p>[TBD]</p>
+              <p>More than 50% of production cost is accounted to feed cost. DairyX monitors each cow’s amount of feed intake which allows herd managers and nutritionists to formulate better diet to meet the cow’s nutritional requirements. Utilizing our product can increase your cow’s feed efficiency up to 10% and save you thousands of dollars monthly in feed cost.</p>
             </div>
 
             <div class="col-md-5">
@@ -100,7 +99,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
               <h4>Automated Tracking</h4>
-              <p>[TBD]</p>
+              <p>DairyX replaces your daily cow monitoring routine with 24/7 automated tracking to give you peace of mind. Our live feed of data gives you more power and control of your farm. You will be instantly notified on your phone if there are irregular cow behaviors. Quick and simple!</p>
             </div>
 
             <div class="col-md-5 order-md-first">
@@ -122,7 +121,7 @@
         <div class="container">
           <div class="row gap-y align-items-center">
             <div class="col-md-9">
-              <h4 class="mb-0 text-white text-center text-md-left">Want a demo? Message us for more info!</h4>
+              <h4 class="mb-0 text-white text-center text-md-left">Want to know more?</h4>
             </div>
 
             <div class="col-md-3 text-center text-md-right">
@@ -140,11 +139,9 @@
       <section id="section-features" class="section">
         <div class="container">
           <header class="section-header">
-            <small>Product</small>
-            <h2>Sensor Scans The RFID Tags Of The Cows</h2>
+            <h5>Product</h5>
+            <h2>Adaptable Sensors For Monitoring System</h2>
           </header>
-
-
 
           <div class="row gap-y">
 
@@ -172,7 +169,7 @@
             </div>
 
             <header class="section-header">
-              <h2>Platform Displays Insights From The Recorded Data</h2>
+              <h2>Cloud Platform Displays Insights From The Recorded Data</h2>
             </header>
 
             <div class="col-md-8 mx-auto">
