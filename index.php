@@ -63,7 +63,7 @@
             <img class="logo-dark" src="assets/img/logo-dark.png" alt="logo" style="height:75px;">
             <h2>DairyX</h2>
             <hr>
-            <p class="lead">The world's most adaptable and accurate cloud-based monitoring system for dairy cows.</p>
+            <p class="lead" style="font-size:20px;"><i>The world's most adaptable and accurate cloud-based monitoring system for dairy cows.</i></p>
           </header>
 
 
