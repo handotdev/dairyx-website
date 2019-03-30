@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>FoodFul</title>
+    <title>DairyX</title>
 
     <!-- Styles -->
     <link href="assets/css/page.min.css" rel="stylesheet">
@@ -14,7 +14,7 @@
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="icon" href="assets/img/favicon.png">
+    <link rel="icon" href="assets/img/logo-dark.png">
   </head>
 
   <body>
@@ -32,11 +32,11 @@
         <div class="row align-items-center h-100">
 
           <div class="col-lg-6">
-            <h1 class="fw-600">Collect Feed <span class="text-warning">Data.</span><br><span class="text-info">Get</span> Better Results.</h1>
+            <h1 class="fw-600">Small <span class="text-warning">Changes.</span><br><span class="text-info">Large</span> Impact.</h1>
             <p class="lead mt-5 mb-8">On a mission to merge digital technology with traditional agriculture to create a productive, efficient, resilient, and sustainable future food system.</p>
             <p class="gap-xy">
-              <a class="btn btn-round btn-outline-light mw-150" href="index.php#learn-more">Learn more</a>
-              <a class="btn btn-round btn-light mw-150" href="contact.php">Contact us</a>
+              <a id="cover-more" class="btn btn-round btn-outline-light mw-150" href="index.php#learn-more">Learn more</a>
+              <a id="cover-subscribe" class="btn btn-round btn-light mw-150" href="index.php#subscribe">Subscribe</a>
             </p>
           </div>
 
@@ -60,9 +60,10 @@
       <section id="learn-more" class="section bg-gray">
         <div class="container">
           <header class="section-header">
-            <h2>Our Product and Service</h2>
+            <img class="logo-dark" src="assets/img/logo-dark.png" alt="logo" style="height:75px;">
+            <h2>DairyX</h2>
             <hr>
-            <p class="lead">[TBD]</p>
+            <p class="lead">The world's most adaptable and accurate cloud-based monitoring system for dairy cows.</p>
           </header>
 
 
@@ -125,7 +126,7 @@
             </div>
 
             <div class="col-md-3 text-center text-md-right">
-              <a class="btn btn-lg btn-round btn-light" href="#">Contact Us</a>
+              <a class="btn btn-lg btn-round btn-light" href="contact.php">Contact Us</a>
             </div>
           </div>
         </div>
@@ -139,19 +140,44 @@
       <section id="section-features" class="section">
         <div class="container">
           <header class="section-header">
-            <small>Features</small>
-            <h2>DairyX is world's the most accessible and accurate system for cattle management</h2>
-            <hr>
+            <small>Product</small>
+            <h2>Sensor Scans The RFID Tags Of The Cows</h2>
           </header>
 
 
 
           <div class="row gap-y">
 
-            <div class="col-md-8 mx-auto">
-              <img src="assets/img/product.jpg" alt="..." data-aos="fade-up" data-aos-duration="2000">
+              <div id="carouselExampleControls" class="carousel slide col-md-8 mx-auto" data-ride="carousel" data-interval="3000">
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img class="d-block w-100" src="assets/img/prototype-1.png" alt="First slide">
+                  </div>
+                  <div class="carousel-item">
+                    <img class="d-block w-100" src="assets/img/prototype-2.png" alt="Second slide">
+                  </div>
+                </div>
+                <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" style="filter: invert(100%);" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" style="filter: invert(100%);" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
             </div>
 
+            <div class="col-12 align-self-end text-center pb-7">
+              <a class="scroll-down-1 scroll-down-black"><span></span></a>
+            </div>
+
+            <header class="section-header">
+              <h2>Platform Displays Insights From The Recorded Data</h2>
+            </header>
+
+            <div class="col-md-8 mx-auto">
+              <img src="assets/img/laptop-screen.png" alt="...">
+            </div>
 
             <div class="w-100"></div>
 
@@ -161,7 +187,7 @@
                 <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-linegraph"></i></div>
                 <div class="media-body">
                   <h5>Improve Milk Production</h5>
-                  <p>Improving detection means identifying cows with better lactation. Breeding cows with better laction means higher profits for your dairy farm!</p>
+                  <p>Improving detection means identifying cows with better lactation. Breeding cows with better lactation means higher profits for your dairy farm!</p>
                 </div>
               </div>
             </div>
@@ -180,10 +206,10 @@
 
             <div class="col-md-6 col-xl-4">
               <div class="media">
-                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-pricetags"></i></div>
+                <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-cloud"></i></div>
                 <div class="media-body">
-                  <h5>Utilizing Existing Systems</h5>
-                  <p>Our technology leverages existing systems in place! This way, our product is affordable, adaptable, and scalable.</p>
+                  <h5>Cloud-Based IoT Systems</h5>
+                  <p>Our technology leverages cloud computing to store and access data! This way, our product gives you access to the most up-to-date information.</p>
                 </div>
               </div>
             </div>
@@ -282,8 +308,10 @@
 
 
     <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
     <script src="assets/js/page.min.js"></script>
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/custom.js"></script>
 
   </body>
 </html>

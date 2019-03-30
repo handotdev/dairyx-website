@@ -7,13 +7,12 @@ echo '
     <div class="row gap-y align-items-center">
 
       <div class="col-md-3 text-center text-md-left">
-        <a href="#"><img src="assets/img/logo-dark.png" alt="logo"></a>
+        <a href="#"><img src="assets/img/logo-dark.png" style="height:60px" alt="logo"></a>
       </div>
 
       <div class="col-md-6">
         <div class="nav nav-center">
           <a class="nav-link" href="#">About</a>
-          <a class="nav-link" href="#">Blog</a>
           <a class="nav-link" href="#">Policy</a>
           <a class="nav-link" href="contact.php">Contact</a>
         </div>
