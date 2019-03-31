@@ -37,7 +37,7 @@
 
           <h2 class="text-center">Contact Us</h2>
 
-          <div class="row gap-y mt-8">
+          <div class="d-flex justify-content-center gap-y mt-6">
             <form class="col-lg-6" action="assets/php/sendmail.php" method="POST" data-form="mailer">
 
               <div class="alert alert-success d-on-success">We received your message and will contact you back soon.</div>
@@ -67,16 +67,6 @@
               <button class="btn btn-lg btn-primary" type="submit">Send message</button>
 
             </form>
-
-
-            <div class="col-lg-5 ml-auto text-center text-lg-left">
-              <hr class="d-lg-none">
-              <h5>Ithaca, NY</h5>
-              <p>616 West Buffalo Street<br>Ithaca, NY, 14850</p>
-              <p>+1 (850) 525 9506</p>
-              <p>dairyx2050@gmail.com</p>
-            </div>
-          </div>
 
         </div>
 

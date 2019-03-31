@@ -117,7 +117,7 @@
       | CTA
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
-      <section class="section py-7" style="background-color: #000">
+      <section class="section py-7" style="background-image:url('assets/img/pattern.jpg');">
         <div class="container">
           <div class="row gap-y align-items-center">
             <div class="col-md-9">
