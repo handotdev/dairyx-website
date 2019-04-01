@@ -12,7 +12,7 @@ echo '
 
       <div class="col-md-6">
         <div class="nav-center">
-          <a class="nav-link" style="text-align:center;">Proudly Founded By <span style="color:red;">Cornell</span> Alumni<br>(The Worlds Leading Institution In Cloud Computing And Agriculture)</a>
+          <a class="nav-link" style="text-align:center;">Proudly Founded By <span style="color:red;">Cornell</span> Alumni<br>(The World\'s Leading Institution In Cloud Computing And Agriculture)</a>
         </div>
       </div>
 
