@@ -72,7 +72,7 @@
         <div class="container">
           <header class="section-header">
             <img class="logo-dark" src="assets/img/logo-dark.png" alt="logo" style="height:75px;">
-            <h2>DairyX</h2>
+            <h2>DairyX by FoodFul</h2>
             <p class="lead" style="font-size:20px;"><i>The world's most adaptable and accurate cloud-based monitoring system for dairy cows.</i></p>
           </header>
 
