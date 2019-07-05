@@ -19783,7 +19783,7 @@ body:not(.body-scrolled) .topbar.d-flex ~ .navbar {
           align-items: center; }
   .navbar-brand img {
     vertical-align: baseline;
-    max-height: 50px; }
+    max-height: 32px; }
 
 .navbar-divider {
   display: inline-block;
