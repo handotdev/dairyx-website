@@ -6,15 +6,16 @@
     <meta name="description" content="You have access to a plenty of contact form, contact information and Google map styles.">
     <meta name="keywords" content="contact, map, address, phone, fax, block, html code">
 
-    <title>DairyX - Contact</title>
+    <title>Contact - DairyX</title>
 
     <!-- Styles -->
-    <link href="assets/css/page.min.css" rel="stylesheet">
+    <link href="assets/css/page.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
     <link rel="icon" href="assets/img/logo-dark.png">
+    
   </head>
 
   <body class="demo-section">

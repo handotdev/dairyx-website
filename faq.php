@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="keywords" content="">
 
-    <title>DairyX by FoodFul</title>
+    <title>FAQ - DairyX</title>
 
     <!-- Styles -->
     <link href="assets/css/page.css" rel="stylesheet">
