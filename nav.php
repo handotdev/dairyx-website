@@ -18,6 +18,7 @@ echo '
         <a id="nav-home" class="nav-link active" href="index.php#home">Home</a>
         <a id="nav-features" class="nav-link" href="index.php#section-features">Features</a>
         <a id="nav-subscribe" class="nav-link" href="index.php#subscribe">Subscribe</a>
+        <a class="nav-link" href="faq.php">FAQ</a>
         <a class="nav-link" href="contact.php">Contact</a>
       </nav>
 
