@@ -54,7 +54,6 @@
           <div class="col-lg-6 ml-auto">
             <img class="mt-5" src="assets/img/laptop.gif" alt="img">
           </div>
-
         </div>
       </div>
     </header><!-- /.header -->
@@ -68,6 +67,56 @@
       | Our Product and Service
       |‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒‒
       !-->
+      <section class="section bg-success">
+        <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-8">
+          <form class="input-glass input-round" action="" method="post" target="_blank">
+          <h1 class="text-white">Potential Savings Calculator</h1>
+            <div class="input-group input-group-lg">
+              <input id="number" type="number" class="form-control" placeholder="Number of cows">
+              <span class="input-group-append">
+                <button id="calculate" class="btn btn-light" type="button">Calculate</button>
+              </span>
+            </div>
+          </form>
+          <h5 id="invalid" class="text-danger ml-5 mt-2 d-none">Entry must be a value greater than 0</h5>
+          </div>
+        </div>
+        
+          <div id="sheet" class="container mt-7 px-7 text-white d-none">
+            <div class="row justify-content-center">
+              <div class="col-4 text-left">
+                <h3>Early Illness Detection</h3>
+              </div>
+              <div class="col-4 text-right">
+                <h3 id="healthSavings"></h3>
+              </div>
+            </div>
+            <div class="row justify-content-center">
+              <div class="col-4 text-left">
+                <h3>Improving Feed Efficiency</h3>
+              </div>
+              <div class="col-4 text-right">
+                <h3 id="feedSavings"></h3>
+              </div>
+            </div>
+            <div class="row justify-content-center mt-1">
+              <div class="col-8 bg-white" style="height:4px;border-radius:3px;">
+              </div>
+            </div>
+            <div class="row justify-content-center mt-4">
+              <div class="col-4 text-left">
+                <h2>Total Estimated Savings</h2>
+              </div>
+              <div class="col-4 text-right">
+                <h2 id="totalSavings"></h2>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       <section id="learn-more" class="section bg-gray">
         <div class="container">
           <header class="section-header">
@@ -321,6 +370,51 @@
     <script src="assets/js/page.min.js"></script>
     <script src="assets/js/script.js"></script>
     <script src="assets/js/custom.js"></script>
+
+    <script>
+      let byId = (id) => {
+        return document.getElementById(id);
+      }
+
+      byId("calculate").addEventListener('click', () => {
+        calculate();
+      });
+
+      byId("number").addEventListener('keyup', () => {
+        calculate();
+      });
+
+      calculate = () => {
+        let cows = byId("number").value;
+
+        if (cows > 0) {
+          byId("invalid").classList.add("d-none");
+          byId("sheet").classList.remove("d-none");
+          byId("healthSavings").textContent = "$"+health(cows);
+          byId("feedSavings").textContent = "$"+feed(cows);
+          byId("totalSavings").textContent = "$"+total(cows);
+        } else if (cows === "") {
+          byId("invalid").classList.add("d-none");
+          byId("sheet").classList.add("d-none");
+        } else {
+          byId("invalid").classList.remove("d-none");
+          byId("sheet").classList.add("d-none");
+        }
+      }
+
+      let health = x => {
+        return Math.round((x*0.04*275+x*0.01*232+x*0.13*315+x*0.25*224+x*0.3*469)*0.2+"").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      }
+
+      let feed = x => {
+        return Math.round(x*7.83*365-x*7.047*365+"").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      }
+
+      let total = x => {
+        return Math.round(((x*0.04*275+x*0.01*232+x*0.13*315+x*0.25*224+x*0.3*469)*0.2 + x*7.83*365-x*7.047*365)+"").toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+      }
+
+    </script>
 
   </body>
 </html>
