@@ -72,9 +72,9 @@
         <div class="row justify-content-center">
           <div class="col-8">
           <form class="input-glass input-round" action="" method="post" target="_blank">
-          <h1 class="text-white">Potential Savings Calculator</h1>
+          <h1 class="text-white">How much can you save on your herd?</h1>
             <div class="input-group input-group-lg">
-              <input id="number" type="number" class="form-control" placeholder="Number of cows">
+              <input id="number" type="tel" class="form-control" placeholder="Enter number of cows">
               <span class="input-group-append">
                 <button id="calculate" class="btn btn-light" type="button">Calculate</button>
               </span>
@@ -86,18 +86,18 @@
         
           <div id="sheet" class="container mt-7 px-7 text-white d-none">
             <div class="row justify-content-center">
-              <div class="col-4 text-left">
+              <div class="col-5 text-left">
                 <h3>Early Illness Detection</h3>
               </div>
-              <div class="col-4 text-right">
+              <div class="col-3 text-right">
                 <h3 id="healthSavings"></h3>
               </div>
             </div>
             <div class="row justify-content-center">
-              <div class="col-4 text-left">
+              <div class="col-5 text-left">
                 <h3>Improving Feed Efficiency</h3>
               </div>
-              <div class="col-4 text-right">
+              <div class="col-3 text-right">
                 <h3 id="feedSavings"></h3>
               </div>
             </div>
@@ -106,10 +106,10 @@
               </div>
             </div>
             <div class="row justify-content-center mt-4">
-              <div class="col-4 text-left">
-                <h2>Total Estimated Savings</h2>
+              <div class="col-5 text-left">
+                <h2>Total Annual Savings</h2>
               </div>
-              <div class="col-4 text-right">
+              <div class="col-3 text-right">
                 <h2 id="totalSavings"></h2>
               </div>
             </div>
