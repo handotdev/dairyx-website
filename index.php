@@ -72,7 +72,7 @@
         <div class="row justify-content-center">
           <div class="col-8">
           <form class="input-glass input-round" action="" method="post" target="_blank">
-          <h1 class="text-white">How much can you save on your herd?</h1>
+          <h2 class="text-white text-center">Find out how much your farm would save</h2>
             <div class="input-group input-group-lg">
               <input id="number" type="tel" class="form-control" placeholder="Enter number of cows">
               <span class="input-group-append">
