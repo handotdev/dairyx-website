@@ -20,4 +20,13 @@
   body > .footer .nav a:last-child {
     display: none; } }
 
+
+.description {
+  font-size: 17px;
+}
+
+.features {
+  font-size: 15px;
+}
+
 /*# sourceMappingURL=style.css.map */

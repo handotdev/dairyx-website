@@ -80,7 +80,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
               <h4>Early Illness Detection</h4>
-              <p>Visual inspection is the common practice of illness detection at dairy farms but even for a highly trained individual, subtle signs of cow sickness are easily overlooked. DairyX makes subtle irregular behaviors of cows more apparent and makes the process of detection more accurate at real time through cloud-based 24 hour monitoring system.</p>
+              <p class="description">Visual inspection is the common practice of illness detection at dairy farms but even for a highly trained individual, subtle signs of cow sickness are easily overlooked. DairyX makes subtle irregular behaviors of cows more apparent and makes the process of detection more accurate at real time through cloud-based 24 hour monitoring system.</p>
             </div>
 
             <div class="col-md-5 order-md-first">
@@ -95,7 +95,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 mr-auto">
               <h4>Feed Efficiency Monitoring</h4>
-              <p>More than 50% of production cost is accounted to feed cost. DairyX monitors each cow’s amount of feed intake which allows herd managers and nutritionists to formulate better diet to meet the cow’s nutritional requirements. Utilizing our product can increase your cow’s feed efficiency up to 10% and save you thousands of dollars monthly in feed cost.</p>
+              <p class="description">More than 50% of production cost is accounted to feed cost. DairyX monitors each cow’s amount of feed intake which allows herd managers and nutritionists to formulate better diet to meet the cow’s nutritional requirements. Utilizing our product can increase your cow’s feed efficiency up to 10% and save you thousands of dollars monthly in feed cost.</p>
             </div>
 
             <div class="col-md-5">
@@ -110,7 +110,7 @@
           <div class="row gap-y align-items-center">
             <div class="col-md-6 ml-auto">
               <h4>Automated Tracking</h4>
-              <p>DairyX replaces your daily cow monitoring routine with 24/7 automated tracking to give you peace of mind. Our live feed of data gives you more power and control of your farm. You will be instantly notified on your phone if there are irregular cow behaviors. Quick and simple!</p>
+              <p class="description">DairyX replaces your daily cow monitoring routine with 24/7 automated tracking to give you peace of mind. Our live feed of data gives you more power and control of your farm. You will be instantly notified on your phone if there are irregular cow behaviors. Quick and simple!</p>
             </div>
 
             <div class="col-md-5 order-md-first">
@@ -195,7 +195,7 @@
                 <div class="lead-6 line-height-1 text-dark mr-5"><i class="icon-linegraph"></i></div>
                 <div class="media-body">
                   <h5>Improve Milk Production</h5>
-                  <p>Improving detection means identifying cows with better lactation. Breeding cows with better lactation means higher profits for your dairy farm!</p>
+                  <p class="features">Improving detection means identifying cows with better lactation. Breeding cows with better lactation means higher profits for your dairy farm!</p>
                 </div>
               </div>
             </div>
@@ -206,7 +206,7 @@
                 <div class="lead-6 line-height-1 text-primary mr-5"><i class="icon-magnifying-glass"></i></div>
                 <div class="media-body">
                   <h5>Collect Insightful Data</h5>
-                  <p>Obtain data on feeding and sleeping durations to better understand the health status and feed efficiency of the cows.</p>
+                  <p class="features">Obtain data on feeding and sleeping durations to better understand the health status and feed efficiency of the cows.</p>
                 </div>
               </div>
             </div>
@@ -217,7 +217,7 @@
                 <div class="lead-6 line-height-1 text-info mr-5"><i class="icon-cloud"></i></div>
                 <div class="media-body">
                   <h5>Cloud-Based IoT Systems</h5>
-                  <p>Our technology leverages cloud computing to store and access data! This way, our product gives you access to the most up-to-date information.</p>
+                  <p class="features">Our technology leverages cloud computing to store and access data! This way, our product gives you access to the most up-to-date information.</p>
                 </div>
               </div>
             </div>
@@ -228,7 +228,7 @@
                 <div class="lead-6 line-height-1 text-warning mr-5"><i class="icon-wallet"></i></div>
                 <div class="media-body">
                   <h5>Greater Profit Margins</h5>
-                  <p>Reduce feed costs and save money through reduced treatment costs, reduced labor costs, and increased feed efficiency.</p>
+                  <p class="features">Reduce feed costs and save money through reduced treatment costs, reduced labor costs, and increased feed efficiency.</p>
                 </div>
               </div>
             </div>
@@ -239,7 +239,7 @@
                 <div class="lead-6 line-height-1 text-danger mr-5"><i class="icon-gears"></i></div>
                 <div class="media-body">
                   <h5>Efficient Management</h5>
-                  <p>DairyX keeps track of your herd 24/7. Automating the process will allow you to reduce operational and labor costs.</p>
+                  <p class="features">DairyX keeps track of your herd 24/7. Automating the process will allow you to reduce operational and labor costs.</p>
                 </div>
               </div>
             </div>
@@ -250,7 +250,7 @@
                 <div class="lead-6 line-height-1 text-success mr-5"><i class="icon-clock"></i></div>
                 <div class="media-body">
                   <h5>Real-Time Insights</h5>
-                  <p>Visualize and track individual cow information in real-time to best analyze data regarding your herd.</p>
+                  <p class="features">Visualize and track individual cow information in real-time to best analyze data regarding your herd.</p>
                 </div>
               </div>
             </div>

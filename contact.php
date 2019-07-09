@@ -20,7 +20,6 @@
 
   <body class="demo-section">
 
-
     <!-- Navbar -->
     <?php include 'nav.php';?>
 
